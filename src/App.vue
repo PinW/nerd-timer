@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import "@/base/styles/base.scss";
+@use "@/base/styles/base.scss";
 
 .nerd-timer-app {
   min-height: 100vh;
