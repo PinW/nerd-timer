@@ -1,0 +1,24 @@
+{
+  "name": "nerd-timer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.3",
+    "eslint": "^9.15.0",
+    "eslint-plugin-vue": "^9.31.0",
+    "@eslint/js": "^9.15.0",
+    "sass": "^1.83.0",
+    "sass-embedded": "^1.83.0"
+  }
+}
