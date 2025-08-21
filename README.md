@@ -1,24 +1,5 @@
-# planner
+# nerd-timer
 
-## Project setup
-```
-npm install
-```
+Simple timer to remind you to get up and exercise
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+pinw.github.io/nerd-timer/
